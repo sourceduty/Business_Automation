@@ -12,6 +12,8 @@ Business Automation also plays a crucial role in enhancing decision-making proce
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
 <br>
 [Business Concept](https://chat.openai.com/g/g-Xm4w9hlF5-business-concept)
+<br>
+[Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
