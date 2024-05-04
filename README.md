@@ -14,6 +14,8 @@ Business Automation also plays a crucial role in enhancing decision-making proce
 [Business Concept](https://chat.openai.com/g/g-Xm4w9hlF5-business-concept)
 <br>
 [Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
+<br>
+[Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
