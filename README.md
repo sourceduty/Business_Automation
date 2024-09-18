@@ -30,6 +30,8 @@ Business Automation also plays a crucial role in enhancing decision-making proce
 [Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 <br>
 [Automated Business](https://github.com/sourceduty/Automated_Business)
+<br>
+[Employee Automation](https://github.com/sourceduty/Employee_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
