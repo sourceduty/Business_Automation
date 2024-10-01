@@ -32,6 +32,8 @@ Business Automation also plays a crucial role in enhancing decision-making proce
 [Automated Business](https://github.com/sourceduty/Automated_Business)
 <br>
 [Employee Automation](https://github.com/sourceduty/Employee_Automation)
+<br>
+[Sourceduty Employee](https://github.com/sourceduty/Sourceduty_Employee)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
